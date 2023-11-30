@@ -1,0 +1,11 @@
+
+Room Number 3410 network setting project
+
+part1
+- OSU 1-4 Layer
+- device: switch, router
+
+
+part2
+- OSI 5-7 Layer
+- Application: app, network program
