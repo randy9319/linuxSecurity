@@ -17,3 +17,8 @@ Router Model select
 part2
 - OSI 5-7 Layer
 - Application: app, network program
+
+2023.11.30
+SW program select
+- java, javascript, c++.. etc
+- price: any
